@@ -1,13 +1,13 @@
 <h1>
-  <img src="https://th.bing.com/th/id/OIG4.x_AwVjeTpIY1bYupayNc?pid=ImgGn" alt="AI Article Summarizer Logo" style="max-width: 100%; height: auto;">
+  <img src="https://th.bing.com/th/id/OIG4.x_AwVjeTpIY1bYupayNc?pid=ImgGn" alt="AI Article Summarizer Logo" style="max-width: 500px; height: 500px;"><br>
   AI Article Summarizer
 </h1>
 
-<p><strong>Summarize any kind of article with just one click using the powerful OpenAI model.</strong></p>
+<p><strong>"Effortlessly distill complex articles into concise summaries at the click of a button, powered by the cutting-edge OpenAI model."</strong></p>
 
 <h2>📋Overview</h2>
 
-<p>AI Article Summarizer is a web application that leverages the advanced capabilities of the OpenAI model to generate concise summaries of articles across various topics. With just one click, users can obtain a condensed version of lengthy articles, saving time and effort in information consumption.</p>
+<p>"The AI Article Summarizer is an innovative web application harnessing the sophisticated capabilities of the OpenAI model to produce succinct summaries across diverse topics. With a single click, users can effortlessly access condensed versions of extensive articles, streamlining the process of information consumption and enhancing productivity."</p>
 
 <h2>🚀Features</h2>
 
@@ -22,7 +22,7 @@
 <h2>🛠️Tech Stack</h2>
 
 <ul>
-  <li>💻 <strong>Frontend</strong>: React.js, TypeScript, Redux Toolkit</li>
+  <li>💻 <strong>Frontend</strong>: React.js, JavaScript, Redux Toolkit</li>
   <li>🎨 <strong>Styling</strong>: Tailwind CSS</li>
   <li>🔌 <strong>API Integration</strong>: Rapid API for fetching articles and integrating with the OpenAI model</li>
 </ul>
