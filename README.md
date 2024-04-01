@@ -1,8 +1,25 @@
-# React + Vite
+<h1>AI Article Summarizer</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p><strong>Summarize any kind of article with just one click using the powerful OpenAI model.</strong></p>
 
-Currently, two official plugins are available:
+<h2>Overview</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>AI Article Summarizer is a web application that leverages the advanced capabilities of the OpenAI model to generate concise summaries of articles across various topics. With just one click, users can obtain a condensed version of lengthy articles, saving time and effort in information consumption.</p>
+
+<h2>Features</h2>
+
+<ul>
+  <li><strong>One-Click Summarization</strong>: Instantly generate summaries of articles with a single click.</li>
+  <li><strong>Customizable Summaries</strong>: Adjust the length and depth of the summaries based on preferences.</li>
+  <li><strong>Responsive Design</strong>: Access the application seamlessly across different devices and screen sizes.</li>
+  <li><strong>User-Friendly Interface</strong>: Intuitive and easy-to-use interface for enhanced user experience.</li>
+  <li><strong>Secure and Reliable</strong>: Utilizes robust security measures to ensure safe usage of the application.</li>
+</ul>
+
+<h2>Tech Stack</h2>
+
+<ul>
+  <li><strong>Frontend</strong>: React.js, TypeScript, Redux Toolkit</li>
+  <li><strong>Styling</strong>: Tailwind CSS</li>
+  <li><strong>API Integration</strong>: Rapid API for fetching articles and integrating with the OpenAI model</li>
+</ul>
