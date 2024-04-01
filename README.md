@@ -1,4 +1,6 @@
 <h1>AI Article Summarizer</h1>
+<img src="https://drive.google.com/file/d/160jqaz5Y85oQiuoqeRkLRneBtTfKXchP/view?usp=sharing" alt="AI Article Summarizer Logo" style="width: 50px; height: 50px;">
+    AI Article Summarizer
 
 <p><strong>Summarize any kind of article with just one click using the powerful OpenAI model.</strong></p>
 
