@@ -1,0 +1,31 @@
+.head_text {
+    font-size: 5rem;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    color: white;
+}
+  
+.desc {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    max-width: 70rem;
+    margin: 0 auto;
+    color: white;
+}
+  
+.purple_gradient {
+    background: linear-gradient(to right, #4f46e5, #8c43ff, #ff6fd8);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.circular_logo {
+    width: 7rem;
+    height: 7rem; /* Ensure the height matches the width for a perfect circle */
+    object-fit: cover; /* Use cover to maintain aspect ratio */
+    border-radius: 50%; /* Make it a circle */
+}
+  
