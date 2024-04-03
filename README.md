@@ -23,6 +23,6 @@
 
 <ul>
   <li>💻 <strong>Frontend</strong>: React ReduxToolkit</li>
-  <li>🎨 <strong>Styling</strong>:TailwindCSS]</li>
+  <li>🎨 <strong>Styling</strong>: TailwindCSS</li>
   <li>🔌 <strong>API Integration</strong>: Rapid API for fetching articles and integrating with the OpenAI model</li>
 </ul>
