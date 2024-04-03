@@ -22,7 +22,7 @@
 <h2>🛠️Tech Stack</h2>
 
 <ul>
-  <li>💻 <strong>Frontend</strong>: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) </li>
-  <li>🎨 <strong>Styling</strong>: ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)</li>
+  <li>💻 <strong>Frontend</strong>: React ReduxToolkit</li>
+  <li>🎨 <strong>Styling</strong>:TailwindCSS]</li>
   <li>🔌 <strong>API Integration</strong>: Rapid API for fetching articles and integrating with the OpenAI model</li>
 </ul>
