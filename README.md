@@ -21,14 +21,14 @@
 <h2>🛠️Tech Stack</h2>
 
 <ul>
-  <li>💻 <strong>Frontend</strong>:<br/> 
+  <li><strong>Frontend</strong>:<br/> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a><br/>
   </li>
-  <li>🎨 <strong>Styling</strong>:<br/>
+  <li><strong>Styling</strong>:<br/>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><br/>
   </li>
-  <li>🔌 <strong>API Integration</strong>: Rapid API for fetching articles and integrating with the OpenAI model</li>
+  <li><strong>API Integration</strong>: Rapid API for fetching articles and integrating with the OpenAI model</li>
 </ul>
 
 <p align="left">   </p>
