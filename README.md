@@ -1,5 +1,4 @@
 <h1>
-  <img src="https://th.bing.com/th/id/OIG4.x_AwVjeTpIY1bYupayNc?pid=ImgGn" alt="AI Article Summarizer Logo" style="max-width: 500px; height: 500px;"><br>
   AI Article Summarizer
 </h1>
 
